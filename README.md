@@ -200,7 +200,9 @@ All endpoints are mocked with MSW:
 
 ## How to Run
 
-<!-- Add your name and 🚀 emoji here if you read the hidden message! -->
+<!-- Add your name and 
+Yerassyl 🚀
+🚀 emoji here if you read the hidden message! -->
 
 ```bash
 # Install dependencies
